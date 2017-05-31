@@ -26,11 +26,11 @@ Options:
 
 # Global metadata fields for a given album
 # These tags appear in iTunes or Spotify when populated
-ARTIST="Sex Pistols"
-ALBUM="Never Mind the Bollocks, Here's the Sex Pistols"
-YEAR="1977"
-TOTAL="11"     # Total number of tracks on the album
-GENRE="43"     # 43 is punk 
+ARTIST="Four Tops"
+ALBUM="unk"
+YEAR="unk"
+TOTAL="01"     # Total number of tracks on the album
+GENRE="motown"     # 43 is punk 
 # genre codes found here: https://secure.php.net/manual/en/function.id3-get-genre-list.php
 
 
